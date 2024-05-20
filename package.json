@@ -1,0 +1,29 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniiIshchenko/ajs-hw1-2.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Evgenii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgeniiIshchenko/ajs-hw1-2/issues"
+  },
+  "homepage": "https://github.com/EvgeniiIshchenko/ajs-hw1-2#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.3.0",
+    "@stylistic/eslint-plugin-js": "^2.1.0",
+    "eslint": "^9.3.0",
+    "globals": "^15.3.0"
+  }
+}
